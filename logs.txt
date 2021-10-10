@@ -1,0 +1,2 @@
+2021/10/10 14:26:12 Listening on the port :1989
+2021/10/10 14:26:14 http: superfluous response.WriteHeader call from web/service.MainPageHandler (handler.go:22)
